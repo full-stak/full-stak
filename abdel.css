@@ -1,0 +1,34 @@
+                           .head {
+                           background: rgb(233, 139, 16);
+                           height: 100px;
+                           width: 200px;
+                       }
+                       
+                       .products {
+                           margin-top: 200px;
+                           text-align: center;
+                           border: rgb(220, 223, 245);
+                           padding: 20px;
+                           margin-right: 25px;
+                           margin-right: 25px;
+                           border-radius: 25px;
+                       }
+                       
+                       .product {
+                           display: inline-block;
+                           margin: 100px;
+                       }
+                       
+                       .product>img {
+                           border: cadetblue solid 5px;
+                           padding: 30px;
+                           border-radius: 150px;
+                       }
+                       
+                       .product> {
+                           font-weight: bold
+                       }
+                       
+                       #all>.head .flex {
+                           display: flex;
+                           flex:
